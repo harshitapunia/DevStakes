@@ -263,9 +263,3 @@ Pull requests and issues are welcome. Please open an issue first to discuss larg
 MIT — see [LICENSE](LICENSE) for details.
 
 ---
-
-<div align="center">
-
-Built with ❤️ for **GDG RAGATHON 2026**
-
-</div>
